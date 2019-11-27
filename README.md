@@ -6,12 +6,19 @@ Last page is
 
 I used them in this project:
  -State
+ 
  -Event
+ 
  -Functional Components
+ 
  -Props(Default props and Proptypes)
+ 
  -Pose Animation
+ 
  -Action, Reducer and Dispatch
+ 
  -Provider and Consumer
+ 
  -Bootstrap
 
 
