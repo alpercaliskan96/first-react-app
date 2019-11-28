@@ -19,6 +19,17 @@ I used them in this project:
  
  -Provider and Consumer
  
+ -JSONPlaceHolder
+ 
+ -Axios 
+ 
+ -REST Api
+ 
+ -Postman
+ 
+ -Router, Link , Switch
+
  -Bootstrap
+
 
 
