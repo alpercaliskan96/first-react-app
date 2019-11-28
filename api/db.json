@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Alper Çalışkan",
+      "department": "Computer Science",
+      "salary": "5000"
+    },
+    {
+      "id": "unique-2",
+      "name": "Merve Yıldırım",
+      "department": "Architecture",
+      "salary": "4000"
+    },
+    {
+      "name": "Ahmet Akdeniz",
+      "salary": "4750",
+      "department": "Architecture",
+      "id": "aA6w8Ek"
+    }
+  ]
+}
