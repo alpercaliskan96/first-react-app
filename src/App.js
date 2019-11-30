@@ -3,8 +3,9 @@ import './App.css';
 import Navbar from './layout/Navbar';
 import Contribute from './pages/Contribute';
 import Users from './components/Users';
-import AddUser from './components/AddUser';
+import AddUser from './forms/AddUser';
 import NotFound from './pages/NotFound';
+import UpdateUser from './forms/UpdateUser';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
@@ -23,6 +24,7 @@ class App extends Component {
           <Route exact path = "/" component = { Users } />
           <Route exact path = "/add" component = { AddUser } />
           <Route exact path = "/github" component = { Contribute } />
+          <Route exact path = "/edit/:id" component = { UpdateUser } />
           <Route component = { NotFound } />
         </Switch>
 
